@@ -1,11 +1,11 @@
-1. Math (Algebra)
+## Summary
 
-2. Summary
+* A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents
 
-A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents
+* LongT5: Efficient Text-To-Text Transformer for Long Sequences
 
-LongT5: Efficient Text-To-Text Transformer for Long Sequences
+* BillSum: A Corpus for Automatic Summarization of US Legislation
 
-BillSum: A Corpus for Automatic Summarization of US Legislation
+## Knowledge
 
-3. Knowledge
+## Math (Algebra)
