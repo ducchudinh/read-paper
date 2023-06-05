@@ -8,4 +8,6 @@
 
 ## Knowledge
 
-## Math (Algebra)
+## Mathematics
+
+* Algebra
