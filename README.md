@@ -8,6 +8,8 @@
 
 ## Knowledge
 
+* TF-IDF
+
 ## Mathematics
 
 * Algebra
