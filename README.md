@@ -6,10 +6,6 @@
 
 * BillSum: A Corpus for Automatic Summarization of US Legislation
 
-## Knowledge
-
-* TF-IDF
-
 ## Mathematics
 
 * Algebra
