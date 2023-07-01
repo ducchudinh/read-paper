@@ -8,6 +8,8 @@
 
 * Longformer: The Long-Document Transformer
 
+* TextRank: Bringing Order into Texts
+
 ## Mathematics
 
 * Algebra
